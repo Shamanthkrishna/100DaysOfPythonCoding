@@ -1,24 +1,24 @@
 # 100DaysOfPythonCoding
-*-->Indicates that the topic is completed.
+✓-->Indicates that the topic is completed.
 **BEGINNER PYTHON**
-1. Variables in Python*
-2. String Manipulation*
-3. Input and Print Functions*
-4. Variable Naming Rules*
-5. Mathematical Operations in Python*
-6. DataTypes*
-7. Converting types*
-8. Conditionals IF/ELIF/ELSE*
-9. Logical Operators*
-10. Randomisation*
-11. Error Handling
+1. Variables in Python✓
+2. String Manipulation✓
+3. Input and Print Functions✓
+4. Variable Naming Rules✓
+5. Mathematical Operations in Python✓
+6. DataTypes✓
+7. Converting types✓
+8. Conditionals IF/ELIF/ELSE✓
+9. Logical Operators✓
+10. Randomisation✓
+11. Error Handling✓
 12. Functions
 13. For Loops
-14. Code blocks and Indentation
+14. Code blocks and Indentation✓
 15. While Loops
-16. Flowchart Programming
+16. Flowchart Programming✓
 17. Positional and Keyword Arguments
-18. Python Dictionaries and Lists
+18. Python Dictionaries and Lists✓
 19. Nested Collections
 20. Returning Functions
 21. Return vs. Print
