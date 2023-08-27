@@ -1,16 +1,16 @@
 # 100DaysOfPythonCoding
-
+*-->Indicates that the topic is completed.
 **BEGINNER PYTHON**
-1. Variables in Python
-2. String Manipulation
-3. Input and Print Functions
-4. Variable Naming Rules
-5. Mathematical Operations in Python
-6. DataTypes
-7. Converting types
-8. Conditionals IF/ELIF/ELSE
-9. Logical Operators
-10. Randomisation
+1. Variables in Python*
+2. String Manipulation*
+3. Input and Print Functions*
+4. Variable Naming Rules*
+5. Mathematical Operations in Python*
+6. DataTypes*
+7. Converting types*
+8. Conditionals IF/ELIF/ELSE*
+9. Logical Operators*
+10. Randomisation*
 11. Error Handling
 12. Functions
 13. For Loops
