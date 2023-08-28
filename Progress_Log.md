@@ -15,3 +15,7 @@
 ## 27/08/2023
 - Day 4 Topics completed and uploaded,
 - Day 4 Project completed and uploaded.
+
+## 28/08/2023
+- Day 5 Topics completed and uploaded,
+- Day 5 Project completed and uploaded.
