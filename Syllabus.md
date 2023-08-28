@@ -13,9 +13,9 @@
 10. Randomisation✓
 11. Error Handling✓
 12. Functions
-13. For Loops
+13. For Loops✓
 14. Code blocks and Indentation✓
-15. While Loops
+15. While Loops✓
 16. Flowchart Programming✓
 17. Positional and Keyword Arguments
 18. Python Dictionaries and Lists✓
