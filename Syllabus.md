@@ -12,7 +12,7 @@
 9. Logical Operators✓
 10. Randomisation✓
 11. Error Handling✓
-12. Functions
+12. Functions✓
 13. For Loops✓
 14. Code blocks and Indentation✓
 15. While Loops✓
