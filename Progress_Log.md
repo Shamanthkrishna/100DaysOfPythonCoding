@@ -21,5 +21,5 @@
 - Day 5 Project completed and uploaded.
 
 ## 29/08/2023
-- Day 6 Topics completed,
-- Day 5 Project completed.
+- Day 6 Topics completed and uploaded,
+- Day 5 Project completed and uploaded.
