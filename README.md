@@ -6,7 +6,11 @@ Greetings, fellow coding enthusiasts! I'm thrilled to embark on a transformative
 
 ## About the Challenge
 
-The **100 Days of Code** challenge is a commitment to code consistently for 100 days, enhancing skills and creating a robust learning routine. Through this repository, I will be sharing my daily experiences as I dive into the vast world of Python programming. Each day, I'll explore specific topics, learn new concepts, and work on coding projects that align with my learning goals.
+Welcome to my 100 Days of Code journey! In this repository, I will be chronicling my daily experiences as I embark on an exciting adventure in the realm of Python programming. Inspired by the commitment to code consistently, I am dedicating myself to honing my skills and establishing a rock-solid learning routine.
+
+My learning journey has been guided by the course titled 100 Days of Code: The Complete Python Pro Bootcamp for 2023 on Udemy, expertly crafted and led by the esteemed Dr. Angela Yu. With her comprehensive and engaging teaching approach, I am diving deep into the world of Python programming, uncovering specific topics, grasping new concepts, and taking strides towards mastering this versatile language.
+
+Throughout these 100 days, my goal is to explore Python programming inside-out, working on coding projects that perfectly align with my learning objectives. From fundamental concepts to advanced techniques, I am committed to embracing every aspect of Python's potential. By sharing my progress, challenges, and triumphs in this repository, I hope to inspire others who are also on a journey of coding enlightenment.
 
 ## My Goals
 
