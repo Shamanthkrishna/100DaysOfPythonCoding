@@ -19,7 +19,7 @@
 16. Flowchart Programming✓
 17. Positional and Keyword Arguments✓
 18. Python Dictionaries and Lists✓
-19. Nested Collections
+19. Nested Collections✓
 20. Returning Functions
 21. Return vs. Print
 22. Doc Strings vs. Comments
