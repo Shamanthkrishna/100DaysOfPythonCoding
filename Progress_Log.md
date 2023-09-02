@@ -32,6 +32,6 @@
 - Day 8 Topics completed and uploaded,
 - Day 8 Project completed and uploaded.
 
-## 31/08/2023
+## 01/09/2023
 - Day 9 Topics completed and uploaded,
 - Day 9 Project completed and uploaded.
