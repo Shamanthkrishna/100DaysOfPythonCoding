@@ -22,9 +22,9 @@
 19. Nested Collections✓
 20. Returning Functions✓
 21. Return vs. Print✓
-22. Doc Strings vs. Comments
-23. Scope and Local/Global Variables
-24. Debugging Techniques
+22. Doc Strings vs. Comments✓
+23. Scope and Local/Global Variables✓
+24. Debugging Techniques✓
 
 **INTERMEDIATE PYTHON**
 1. Local Development Environment Setup
