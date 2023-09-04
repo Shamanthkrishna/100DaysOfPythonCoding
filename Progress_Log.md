@@ -43,3 +43,6 @@
 ## 03/09/2023
 - Day 11 Capstone Project Completed and Uploaded.
 
+## 04/09/2023
+- Day 12 Topics completed and uploaded,
+- Day 12 Project completed and uploaded.
