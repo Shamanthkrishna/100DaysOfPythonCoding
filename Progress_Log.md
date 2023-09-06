@@ -50,3 +50,6 @@
 ## 05/09/2023
 - Day 13 Topics completed and uploaded,
 - Day 13 Project completed and uploaded.
+
+## 06/09/2023
+- Day 14 Topics completed
