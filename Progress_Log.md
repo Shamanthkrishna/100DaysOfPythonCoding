@@ -48,8 +48,12 @@
 - Day 12 Project completed and uploaded.
 
 ## 05/09/2023
-- Day 13 Topics completed and uploaded,
-- Day 13 Project completed and uploaded.
+- Day 13 Topics completed.
 
 ## 06/09/2023
 - Day 14 Topics completed
+
+## 07/09/2023
+- Day 13 Topics uploaded,
+- Day 13 Project completed and uploaded,
+- Day 14 Project completed and Uploaded.
