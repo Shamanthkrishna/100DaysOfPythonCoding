@@ -56,4 +56,5 @@
 ## 07/09/2023
 - Day 13 Topics uploaded,
 - Day 13 Project completed and uploaded,
-- Day 14 Project completed and Uploaded.
+- Day 14 Project Pending.
+- Day 15 Topics Completed.
