@@ -64,3 +64,5 @@
 
 ## 10/09/2023
 - Day 15 Project Completed & Uploaded.
+- Day 16 Topics Completed.
+- Day 16 Project Completed & Uploaded.
