@@ -27,11 +27,11 @@
 24. Debugging Techniques✓
 
 **INTERMEDIATE PYTHON**
-1. Local Development Environment Setup
-2. PyCharm Tips and Tricks
-3. Python Object Oriented Programming
-4. Creating Classes in Python
-5. Using External Python Modules/Import
+1. Local Development Environment Setup✓
+2. PyCharm Tips and Tricks✓
+3. Python Object Oriented Programming✓
+4. Creating Classes in Python✓
+5. Using External Python Modules/Import✓
 6. Getting / Setting Attributes
 7. Python Methods
 8. Class Initialisers
